@@ -12,8 +12,8 @@
     </parent>
 
     <groupId>com.abba</groupId>
-    <artifactId>dependencies</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <artifactId>abba-dependencies</artifactId>
+    <version>2.2.4-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Abba Dependencies</name>
     <description>Abba Dependencies</description>
